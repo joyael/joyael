@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joyael
-- 👀 I’m now interested in mental energy
+- 👀 I’m now interested in
 - 🌱 I’m currently learning b.tech computer science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
